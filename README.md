@@ -1,4 +1,4 @@
-# QuickAndCleanFromInShopToHomeFride
+# QuickAndCleanFromInShopToHomeFridge
 As you don't want touch every grocery item many times
 
 I was not the first with this idea ( https://www.instructables.com/id/Bike-Portable-Shopping-Cart/ ),
