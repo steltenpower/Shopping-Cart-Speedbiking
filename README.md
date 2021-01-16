@@ -1,6 +1,10 @@
 # QuickAndCleanFromInShopToHomeFridge
-As you don't want touch every grocery item many times
+As you don't want to touch every grocery item many times
 
-Improve on https://www.instructables.com/id/Bike-Portable-Shopping-Cart/ , both in product and getting people to use it.
+Improve on this already rather brilliant [Bike-Portable Shopping Cart]{https://www.instructables.com/id/Bike-Portable-Shopping-Cart/)
 
-Looks like it could be a little quicker to operate, also while sitting on the bike. And it could look a little more stylish.
+Some directions for improvement:
+- A little quicker to put it on and off the bike
+- Be able to do that operation while sitting on the bike
+- Maybe use bamboo instead of the PVC parts, or other environmental improvements
+- Put teasing slogans on it and a good URL; e.g. "parking at the door, lifting no more", speedshopwheels.com
