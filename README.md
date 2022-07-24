@@ -8,3 +8,9 @@ Some directions for improvement:
 - Be able to do that operation while sitting on the bike
 - Maybe use bamboo instead of the PVC parts, or other environmental improvements
 - Put teasing slogans on it and a good URL; e.g. "parking at the door, lifting no more", speedshopwheels.com
+
+What if you don't even have to go to the store?
+Without filling neighborhood with hurried deliverers?
+Have deliverer service many people (almost) simultaneously, which might ask for some changes in design of transport vehicle or trust relation.
+Only works for time&place where many customers already appear anyway: elementary school. BUT, ...
+as we want less cars, not more we HAVE to make sure to forbid cars there&then (just a short while is  enough)
