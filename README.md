@@ -13,4 +13,4 @@ What if you don't even have to go to the store?
 Without filling neighborhood with hurried deliverers?
 Have deliverer service many people (almost) simultaneously, which might ask for some changes in design of transport vehicle or trust relation.
 Only works for time&place where many customers already appear anyway: elementary school. BUT, ...
-as we want less cars, not more we HAVE to make sure to forbid cars there&then (just a short while is  enough)
+as we want less cars, not more, we HAVE to make sure to forbid cars (or flood the space with people and delivery cargo bikes) there&then (just a short while is  enough)
