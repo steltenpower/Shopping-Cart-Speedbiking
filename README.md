@@ -8,6 +8,7 @@ Some directions for improvement:
 - Be able to do that operation while sitting on the bike
 - Maybe use bamboo instead of the PVC parts, or other environmental improvements
 - Put teasing slogans on it and a good URL; e.g. "parking at the door, lifting no more", speedshopwheels.com
+- Make it transparent, just in case someone at the store wants to check if you've scanned everything. Though maybe for sun reasons you prefer white.
 
 What if you don't even have to go to the store?
 Without filling neighborhood with hurried deliverers?
